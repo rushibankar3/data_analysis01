@@ -1,12 +1,12 @@
-##📊 Cricket Data Analysis using Matplotlib
+#📊 Cricket Data Analysis using Matplotlib
 This project analyzes a cricket dataset and some other datasets using Matplotlib and visualizes different insights through various types of graphs. The aim is to understand player performances, match outcomes, and statistical trends in cricket data and to analyse various others.
 
-###🛠️ Libraries Used
+#🛠️ Libraries Used
 Matplotlib → for visualization
 Pandas → for data handling
 NumPy → for numerical operations
 
-###📊 Visualizations
+#📊 Visualizations
 1. Histogram – Runs Distribution
 Shows how runs are distributed among players.
 
@@ -22,7 +22,7 @@ Tracks a player’s runs across matches.
 5.Bar Chart – Comparison
 Compares the between the players on runs scored.
 
-###📌 Future Improvements
+#📌 Future Improvements
 Use Seaborn for advanced visualizations and indepth analysis on complex dataset.
 
 
